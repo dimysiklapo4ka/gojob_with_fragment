@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">GoJOB UT</string>
+    <string name="tv_login">Логин :</string>
+    <string name="tv_password">Пароль :</string>
+    <string name="hint_login">Введите логин</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="rv_registration">Зарегистрироваться</string>
+    <string name="tv_forgot_password">Забыли пароль ?</string>
+    <string name="full_name">Введите ваши данные</string>
+    <string name="enter_name">Введите Имя</string>
+    <string name="enter_surname">Введите Фамилию</string>
+    <string name="enter_patronymic">Введите Отчество</string>
+    <string name="hint_phone">Введите номер телефона</string>
+    <string name="enter_e_mail">Введите e-mail</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="re_enter_password">Подтвертиде пароль</string>
+    <string name="worker">Работник</string>
+    <string name="employer">Работодатель</string>
+    <string name="text_for_worker">text for workertext for workertext for workertext for workertext for workertext for workertext for
+        workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext
+        for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext
+        for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext
+        for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext
+        for workertext for worker</string>
+    <string name="text_for_employer">text for employer text for employer text for employer text for employer text for employer text for
+        employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer
+        text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for
+        employer text for employer text for employer text for employer text for employer text for employer text for employer text for
+        employer</string>
+    <string name="for_I_do_not_have_foreign_passport">У МЕНЯ НЕТ ЗАГРАНИЧНОГО ПАСПОРТА</string>
+    <string name="for_I_am_already_in_poland">Я УЖЕ НАХОЖУСЬ В ПОЛЬШЕ</string>
+    <string name="for_I_do_not_have_work_visa">У МЕНЯ ЕСТЬ ПАСПОРТ, НО НЕТ РАБОЧЕЙ ВИЗЫ</string>
+    <string name="for_I_have_no_job">У МЕНЯ ЕСТЬ ВИЗА, НО НЕТ РАБОТЫ</string>
+    <string name="text_for_need_help">Text for need help. Text for need help. Text for need help. Text for need help. Text for need help.
+        Text for need help. Text for need help.</string>
+    <string name="need_help">Нужна помощь</string>
+    <string name="text_for_registration_your_self">Text for registration your self. Text for registration your self. Text for registration
+        your self. Text for registration your self. Text for registration your self. Text for registration your self.</string>
+    <string name="register_your_self">Оформить самостоятельно</string>
+    <string name="text_description">Загранпаспорт может оформить любой гражданин Украины, не зависимо от возраста. услуга является добровольной и платной.</string>
+    <string name="text_one_step">ПЕРВЫЙ ШАГ - собрать требуемые документы. их список черезвычайно мал и не содержит каких - либо сложных пунктоа.</string>
+    <string name="text_step_two">ВТОРОЙ ШАГ - оплата за услугу в любом удобном для вас отделении банка.</string>
+    <string name="text_step_three">ТРЕТИЙ ШАГ - личный визит в ДМС с собранными документами и квитанциями об оплате.</string>
+    <string name="type_of_passport">Выберите тип паспорта</string>
+    <string name="biometrical_passport">Биометрический паспорт</string>
+    <string name="twenty_day_work">20 дней</string>
+    <string name="works">рабочих</string>
+    <string name="value_twenty_day">557,32 грн</string>
+    <string name="sewen_day_work">7 дней</string>
+    <string name="value_sewen_day">810,32 грн</string>
+    <string name="child_passport">Паспорт для ребенка</string>
+    <string name="list_of_documents">ПЕРЕЧЕНЬ ДОКУМЕНТОВ</string>
+    <string name="list_of_payments">ПЕРЕЧЕНЬ ПЛАТЕЖЕЙ</string>
+    <string name="nearest_ovir">БЛИЖАЙШИЙ ОВИР</string>
+    <string name="I_have_a_passport">Я ПОЛУЧИЛ ПАСПОРТ</string>
+    <string name="text_rb_one">ПАСПОРТ ГРАЖДАНИНА УКРАИНЫ (с вклееной фотографией в 25 и 45 лет) ОРИГИНАЛ + КОПИЯ</string>
+    <string name="text_rb_two">ИНДИВИДУАЛЬНЫЙ НАЛОГОВЫЙ НОМЕР (ИНН) ОРИГИНАЛ + КОПИЯ</string>
+    <string name="text_rb_three">СТАРЫЙ ЗАГРАНИЧНЫЙ ПАСПОРТ (если есть в наличии) ОРИГИНАЛ</string>
+    <string name="text_rb_four">КВИТАНЦИЯ ОБ ОПЛАТЕ 557,32 ГРН КОПИЯ с МОКРОЙ печатью банка</string>
+    <string name="text_rb_five">СПРАВКА ИЗ ВОЕНКОМАТА форма 9Б (только для мужчин до 45 лет) ОРИГИНАЛ</string>
+    <string name="sample_receist">ОБРАЗЕЦ КВИТАНЦИИ</string>
+    <string name="military_registration">ОБРАЗЕЦ СПРАВКИ ИЗ ВОЕНКОМАТА</string>
+    <string name="military_in_map">НАЙТИ ВОЕНКОМАТ НА КАРТЕ</string>
+    <string name="admin_payment">Стоимость административной услуги = 253 грн</string>
+    <string name="blank_payment">Бланки паспорта гражданина Украины = 304,32 грн</string>
+    <string name="pp">РАСЧЕТНЫЙ СЧЕТ :</string>
+    <string name="payment_receiver">Получатель платежа: Главное управление Государственной миграционной службы</string>
+    <string name="ukr">Украины в</string>
+    <string name="edrpoy">Код ЕДРПОУ отрымувача : 37806243</string>
+    <string name="name_banking">Наименование установы банка : Госказначейска служба Украины в г.Киеве</string>
+    <string name="mfo">Код МФО банку : 820172</string>
+    <string name="pp_recipient">Рахунок получателя : 37114078079427</string>
+    <string name="paymer">Платник :</string>
+    <string name="purpose_payment">Призначення платежу*;1210;548814;1;*Оформлення (у тому числи замисть втраченного або выкраденного) та обмин паспорта громадянына Украины для выезда за кордон з дня оформлення заявы-анкеты у срок не пизнише ниж через 20 робочих днив;</string>
+    <string name="value_payment">Сума платежа : 557,32 грн</string>
+    <string name="search_bank">ПОИСК: БЛИЖАЙШЕЕ ОТДЕЛЕНИЕ БАНКА</string>
+    <string name="find_nearest_ovir">НАЙТИ БЛИЖАЙШИЙ ОВИР</string>
+    <string name="serch_ovir">ВВЕДИТЕ ПАРАМЕТРЫ ПОИСКА ПРОПИСКА ИЛИ МЕСТО НАХОЖДЕНИЯ</string>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/firm_color_gray">
+
+
+
+        <TextView
+            android:id="@+id/tv_worker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/firm_color_black"
+            android:textColor="@color/text_color_dark_gray"
+            android:textSize="40sp"
+            android:text="@string/worker"
+            android:gravity="center_horizontal"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/text_color_dark_gray"
+                    android:text="@string/text_for_worker"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/bt_for_worker"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/b_ok"
+                    android:layout_gravity="center_horizontal"
+                     />
+            </LinearLayout>
+
+
+        </ScrollView>
+
+</LinearLayout>
